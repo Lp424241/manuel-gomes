@@ -1,0 +1,15 @@
+.pagi{
+    width: 1500px;
+    border: 5px solid green;
+    margin: auto;
+}
+.conte{
+    width: 250px;
+    height: 250px;
+    float: right;
+    border: 2px solid blue;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
